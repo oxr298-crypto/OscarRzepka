@@ -1,7 +1,0 @@
-interest = 0.03
-principal = 3000
-n = 1
-
-final = principal * (1 + interest) ** n
-
-print(final)
